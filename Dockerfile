@@ -1,6 +1,6 @@
 FROM ubuntu:24.04
 
-LABEL org.opencontainers.image.source https://github.com/ohioit/vscode-devcontainer-base
+LABEL org.opencontainers.image.source https://github.com/cccerith/vscode-devcontainer-base
 
 ARG USERNAME=vscode
 ARG USER_UID=1000
